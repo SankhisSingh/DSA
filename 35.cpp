@@ -1,4 +1,5 @@
 /*
+Binary search problem
 find target in array if not found then insert at sorted position
 */
 class Solution{
